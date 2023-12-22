@@ -73,7 +73,7 @@ Publish the website in the given URL.
             <input type="button" onkeydown="op(event)" onclick="f('5')" value="5">
             <input type="button" onkeydown="op(event)" onclick="f('6')" value="6">
             <input type="button" onkeydown="op(event)" onclick="f('*')" value="x">
-            <input type="button" onkeydown="op(event)" onclick="f('^0.5')" value="^0.5"><br><br>
+            <input type="button" onkeydown="op(event)" onclick="f('^0.5')" value="&radic;"><br><br>
     
             <input type="button" onkeydown="op(event)" onclick="f('1')" value="1">
             <input type="button" onkeydown="op(event)" onclick="f('2')" value="2">
@@ -128,8 +128,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-21 163037.png>)
-![Alt text](<Screenshot 2023-12-21 163049.png>)
+![Alt text](<Screenshot 2023-12-22 135314.png>)
+![Alt text](<Screenshot 2023-12-22 135326.png>)
+
 
 
 
